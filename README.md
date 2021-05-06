@@ -1,7 +1,7 @@
 collapsing_roofs
 ==============================
 
-This is repo to combine the deep learning work on collapsing roofs in Baltimore City.
+This is repo to combine and continue the deep learning work on collapsing roofs in Baltimore City.
 
 Project Organization
 ------------
@@ -13,7 +13,7 @@ Project Organization
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   └── raw            <- Folders of images
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
