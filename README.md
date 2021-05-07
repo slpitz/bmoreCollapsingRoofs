@@ -3,6 +3,8 @@ collapsing_roofs
 
 This is repo to combine and continue the deep learning work on collapsing roofs in Baltimore City.
 
+![download](https://user-images.githubusercontent.com/6277896/117492555-5cce0600-af37-11eb-92dc-200f75de2663.png)
+
 Project Organization
 ------------
 
